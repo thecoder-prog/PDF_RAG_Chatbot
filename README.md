@@ -53,7 +53,7 @@ The `chroma_db/` directory may be created locally to persist vector embeddings, 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PDF_RAG_Chatbot.git
+git clone https://github.com/thecoder-prog/PDF_RAG_Chatbot.git
 cd PDF_RAG_Chatbot
 ```
 
