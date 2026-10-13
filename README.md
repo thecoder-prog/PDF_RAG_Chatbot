@@ -57,8 +57,6 @@ git clone https://github.com/thecoder-prog/PDF_RAG_Chatbot.git
 cd PDF_RAG_Chatbot
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
-
 ### 2. Create a virtual environment
 
 ```bash
