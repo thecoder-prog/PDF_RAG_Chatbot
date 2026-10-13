@@ -1,0 +1,10 @@
+streamlit
+pymupdf
+langchain
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+chromadb
+sentence-transformers
+python-dotenv
+torchvision
